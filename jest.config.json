@@ -1,0 +1,7 @@
+{
+  "testRegex": "((\\.|/*.)(test))\\.js?$",
+  "roots": [
+    "../lww/tests"
+  ],
+  "verbose": true
+}
